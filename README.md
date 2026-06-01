@@ -1,3 +1,17 @@
+<!-- GUIA_TECNICA_PROYECTO_INICIO -->
+
+## Guía técnica del proyecto
+
+Para facilitar la lectura, ejecución, prueba y auditoría técnica, este repositorio incluye una guía pública de navegación:
+
+- 00_GUIA_TECNICA_PROYECTO/README.md
+
+La evidencia funcional principal se encuentra en:
+
+- docs/EVIDENCIA_FUNCIONAL.md
+- evidencias/EV01-CRUD-CONSOLA/README.md
+
+<!-- GUIA_TECNICA_PROYECTO_FIN -->
 # Proyecto JDBC Evidencias SENA
 
 Este proyecto corresponde a una evidencia de codificación en Java utilizando JDBC para realizar conexión con una base de datos MySQL.
@@ -236,3 +250,4 @@ docs: add project README
 ## Autor
 
 Proyecto desarrollado como evidencia de formación en construcción de aplicaciones con Java y conexión a base de datos mediante JDBC.
+
