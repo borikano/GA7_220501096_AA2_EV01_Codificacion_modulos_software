@@ -1,3 +1,16 @@
+<!-- LICENCIA_USO_ACADEMICO_INICIO -->
+
+## Licencia y uso académico
+
+Este repositorio se publica con fines académicos, de revisión técnica y de portafolio.
+
+La licencia y condiciones de uso están documentadas en:
+
+- LICENSE.md
+
+Los datos usados en pruebas son ficticios y deben mantenerse anonimizados.
+
+<!-- LICENCIA_USO_ACADEMICO_FIN -->
 <!-- GUIA_TECNICA_PROYECTO_INICIO -->
 
 ## Guía técnica del proyecto
@@ -250,4 +263,5 @@ docs: add project README
 ## Autor
 
 Proyecto desarrollado como evidencia de formación en construcción de aplicaciones con Java y conexión a base de datos mediante JDBC.
+
 
